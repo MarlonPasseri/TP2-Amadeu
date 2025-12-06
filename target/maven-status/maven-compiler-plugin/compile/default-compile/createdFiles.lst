@@ -1,0 +1,6 @@
+br\com\exemplo\crud\service\ClienteService.class
+br\com\exemplo\crud\model\Cliente.class
+br\com\exemplo\crud\CrudWebApplication.class
+br\com\exemplo\crud\controller\ClienteController.class
+br\com\exemplo\crud\controller\GlobalExceptionHandler.class
+br\com\exemplo\crud\exception\RecursoNaoEncontradoException.class
